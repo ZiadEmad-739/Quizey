@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quizey</string>
+    <string name="hello">Hello</string>
+    <string name="choose_one_of_this_contents">Choose one of this Contents</string>
+    <string name="play_now">Play Now</string>
+    <string name="name">Name</string>
+    <string name="let_s_play">Let\'s Play!</string>
+    <string name="play_now_and_enjoy">Play now and enjoy\ \ \ :)</string>
+    <string name="submit">Submit</string>
+    <string name="exist">Exist</string>
+    <string name="Continue">Continue</string>
+    <string name="please_think_again">Please, think again.</string>
+    <string name="if_you_exist_now_you_will_lose_your_points">If you exist now, you will lose your points.</string>
+    <string name="are_you_sure">Are You Sure?</string>
+    <string name="choose_one_of_this_categories_and_enjoy">Choose one of this categories and enjoy \ \ :)</string>
+    <string name="history">History</string>
+    <string name="countries">Countries</string>
+    <string name="math">Math</string>
+    <string name="football">Football</string>
+    <string name="total_correct_answers">Total correct answers</string>
+    <string name="your_final_score_is">Your final score is</string>
+    <string name="try_again">Try Again</string>
+</resources>
